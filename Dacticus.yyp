@@ -36,6 +36,7 @@
   "name":"Dacticus",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"P1","path":"sprites/P1/P1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
