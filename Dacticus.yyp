@@ -36,7 +36,7 @@
   "name":"Dacticus",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"P1_DiSchiena","path":"sprites/P1_DiSchiena/P1_DiSchiena.yy",},},
+    {"id":{"name":"P1_1","path":"sprites/P1_1/P1_1.yy",},},
     {"id":{"name":"P1","path":"sprites/P1/P1.yy",},},
     {"id":{"name":"spr_idle","path":"sprites/spr_idle/spr_idle.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
